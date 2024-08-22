@@ -1,15 +1,2 @@
-# Project Title
 
-A brief description of your project.
-
-## Installation
-
-Instructions for setting up the project.
-
-## Usage
-
-How to use the project.
-
-## License
-
-Information about the project's license.
+![image](https://github.com/user-attachments/assets/5906b2bf-2851-4e49-acb6-e02690bf6b0f)
