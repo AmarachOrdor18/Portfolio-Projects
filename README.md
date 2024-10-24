@@ -2,7 +2,7 @@
 
 # Welcome to My Portfolio Projects! 🚀  
 
-Hi there! I’ve been working on some cool projects using data science and machine learning. From predicting real estate prices to classifying sports images, I love solving problems with data. I also enjoy analyzing sales trends and visualizing them in Power BI. Check them out below!
+Hi! I’ve been working on some cool projects using data science and machine learning. From predicting real estate prices to classifying sports images, I love solving problems with data. I also enjoy analyzing sales trends and visualizing them in Power BI. Check them out below!
 
 ---
 ### 🤖 Machine Learning Projects:
