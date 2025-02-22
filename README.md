@@ -1,6 +1,6 @@
 # Welcome to My Portfolio Projects! 🚀  
 
-Hi! I’ve been working on some exciting projects using data science and machine learning. From predicting real estate prices to detecting credit card fraud, I love solving problems with data. I also enjoy analyzing sales trends and visualizing them in Power BI. Check them out below!  
+Hi! I’ve been working on some exciting projects using data analytics and machine learning. From predicting real estate prices to detecting credit card fraud, I love solving problems with data. I also enjoy analyzing sales trends and visualizing them in Power BI. Check them out below!  
 
 ### 🛠 Tools & Technologies:
 - **Excel** 📊
