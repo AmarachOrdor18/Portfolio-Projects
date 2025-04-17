@@ -2,7 +2,7 @@
 
 Hi! I’ve been working on exciting data analytics and machine learning projects. From predicting real estate prices to detecting credit card fraud, I love solving problems with data. I also enjoy analysing sales trends and visualising them in Power BI. Check them out below!  
 
-### 🛠 Tools & Technologies:
+### Tools & Technologies:
 - **Excel**
 - **Power BI**
 - **SQL**
